@@ -1,0 +1,1617 @@
+[
+    {
+        "id": 279,
+        "name": "ST-VULBAS",
+        "altitude_m": 210
+    },
+    {
+        "id": 274,
+        "name": "PEYRIEU",
+        "altitude_m": 221
+    },
+    {
+        "id": 65,
+        "name": "BREGNIER-CORDON",
+        "altitude_m": 225
+    },
+    {
+        "id": 55,
+        "name": "VIRIAT",
+        "altitude_m": 231
+    },
+    {
+        "id": 209,
+        "name": "BUELLAS",
+        "altitude_m": 236
+    },
+    {
+        "id": 107,
+        "name": "PONT-D'AIN",
+        "altitude_m": 236
+    },
+    {
+        "id": 17,
+        "name": "ST-&Eacute;TIENNE-DU-BOIS",
+        "altitude_m": 243
+    },
+    {
+        "id": 182,
+        "name": "BOURG-EN-BRESSE",
+        "altitude_m": 248
+    },
+    {
+        "id": 222,
+        "name": "BELLEY",
+        "altitude_m": 250
+    },
+    {
+        "id": 84,
+        "name": "AMB&Eacute;RIEU-EN-BUGEY",
+        "altitude_m": 255
+    },
+    {
+        "id": 710,
+        "name": "SEYSSEL",
+        "altitude_m": 263
+    },
+    {
+        "id": 730,
+        "name": "B&Eacute;ON",
+        "altitude_m": 265
+    },
+    {
+        "id": 15,
+        "name": "BRIORD",
+        "altitude_m": 281
+    },
+    {
+        "id": 234,
+        "name": "VILLIEU-LOYES",
+        "altitude_m": 290
+    },
+    {
+        "id": 249,
+        "name": "BELMONT-LUTHEZIEU",
+        "altitude_m": 376
+    },
+    {
+        "id": 255,
+        "name": "MATAFELON",
+        "altitude_m": 446
+    },
+    {
+        "id": 290,
+        "name": "MONTANGES",
+        "altitude_m": 484
+    },
+    {
+        "id": 224,
+        "name": "HAUTECOURT",
+        "altitude_m": 495
+    },
+    {
+        "id": 172,
+        "name": "LHOPITAL",
+        "altitude_m": 510
+    },
+    {
+        "id": 111,
+        "name": "L&Eacute;AZ",
+        "altitude_m": 520
+    },
+    {
+        "id": 258,
+        "name": "VIEU-D'IZENAVE",
+        "altitude_m": 616
+    },
+    {
+        "id": 747,
+        "name": "DESSIA",
+        "altitude_m": 644
+    },
+    {
+        "id": 264,
+        "name": "ARMIX",
+        "altitude_m": 733
+    },
+    {
+        "id": 251,
+        "name": "CORMARANCHE-EN-BUGEY",
+        "altitude_m": 825
+    },
+    {
+        "id": 87,
+        "name": "INNIMOND",
+        "altitude_m": 890
+    },
+    {
+        "id": 215,
+        "name": "APREMONT",
+        "altitude_m": 905
+    },
+    {
+        "id": 103,
+        "name": "L&Eacute;LEX",
+        "altitude_m": 910
+    },
+    {
+        "id": 285,
+        "name": "LE PETIT-ABERGEMENT",
+        "altitude_m": 956
+    },
+    {
+        "id": 295,
+        "name": "SUR-LYAND",
+        "altitude_m": 1235
+    },
+    {
+        "id": 104,
+        "name": "LA VATTAY",
+        "altitude_m": 1265
+    },
+    {
+        "id": 112,
+        "name": "SORGIA",
+        "altitude_m": 1380
+    },
+    {
+        "id": 108,
+        "name": "MONTOISEY",
+        "altitude_m": 1657
+    },
+    {
+        "id": 143,
+        "name": "SISTERON",
+        "altitude_m": 485
+    },
+    {
+        "id": 77,
+        "name": "DIGNE-LES-BAINS",
+        "altitude_m": 610
+    },
+    {
+        "id": 263,
+        "name": "CHATEAUFORT",
+        "altitude_m": 688
+    },
+    {
+        "id": 127,
+        "name": "ANNOT",
+        "altitude_m": 750
+    },
+    {
+        "id": 174,
+        "name": "CHAMPTERCIER",
+        "altitude_m": 760
+    },
+    {
+        "id": 129,
+        "name": "LA JAVIE",
+        "altitude_m": 820
+    },
+    {
+        "id": 185,
+        "name": "PRADS-HT-BLEONE",
+        "altitude_m": 1036
+    },
+    {
+        "id": 8,
+        "name": "SELONNET",
+        "altitude_m": 1065
+    },
+    {
+        "id": 252,
+        "name": "VERDACHES",
+        "altitude_m": 1124
+    },
+    {
+        "id": 280,
+        "name": "PIC-D'OISE",
+        "altitude_m": 1137
+    },
+    {
+        "id": 220,
+        "name": "AUZET",
+        "altitude_m": 1180
+    },
+    {
+        "id": 88,
+        "name": "LE VERNET",
+        "altitude_m": 1290
+    },
+    {
+        "id": 66,
+        "name": "SEYNE - LE GRAND PUY",
+        "altitude_m": 1375
+    },
+    {
+        "id": 61,
+        "name": "SEYNE - LE FAUT",
+        "altitude_m": 1450
+    },
+    {
+        "id": 229,
+        "name": "LAVERQ",
+        "altitude_m": 1660
+    },
+    {
+        "id": 221,
+        "name": "LE FOUX-D'ALLOS",
+        "altitude_m": 1700
+    },
+    {
+        "id": 35,
+        "name": "CHABANON",
+        "altitude_m": 1720
+    },
+    {
+        "id": 154,
+        "name": "ST-PAUL-SUR-UBAYE",
+        "altitude_m": 1900
+    },
+    {
+        "id": 35,
+        "name": "CHABANON",
+        "altitude_m": 1722
+    },
+    {
+        "id": 79,
+        "name": "CHABANON-LA PLANE",
+        "altitude_m": 1936
+    },
+    {
+        "id": 281,
+        "name": "CHABANON-BRESSA",
+        "altitude_m": 1976
+    },
+    {
+        "id": 92,
+        "name": "GAP",
+        "altitude_m": 785
+    },
+    {
+        "id": 75,
+        "name": "LA BEAUME",
+        "altitude_m": 820
+    },
+    {
+        "id": 53,
+        "name": "EYGLIERS",
+        "altitude_m": 965
+    },
+    {
+        "id": 272,
+        "name": "LA BATIE-VIEILLE",
+        "altitude_m": 1002
+    },
+    {
+        "id": 761,
+        "name": "LA FREISSINOUSE",
+        "altitude_m": 1005
+    },
+    {
+        "id": 270,
+        "name": "CHABOTTES",
+        "altitude_m": 1057
+    },
+    {
+        "id": 293,
+        "name": "PONT-DU-FOSSE",
+        "altitude_m": 1113
+    },
+    {
+        "id": 235,
+        "name": "ST-SAUVEUR",
+        "altitude_m": 1140
+    },
+    {
+        "id": 51,
+        "name": "ST-LEGER-LES-MELEZES",
+        "altitude_m": 1245
+    },
+    {
+        "id": 85,
+        "name": "ORCI&Egrave;RES-CHAUFFAREL",
+        "altitude_m": 1257
+    },
+    {
+        "id": 134,
+        "name": "ORCI&Egrave;RES-LES TOURRENGS",
+        "altitude_m": 1277
+    },
+    {
+        "id": 218,
+        "name": "COL DU FESTRE",
+        "altitude_m": 1435
+    },
+    {
+        "id": 7,
+        "name": "LES ORRES",
+        "altitude_m": 1460
+    },
+    {
+        "id": 203,
+        "name": "AIGUILLES",
+        "altitude_m": 1490
+    },
+    {
+        "id": 86,
+        "name": "PUY-SAINT-PIERRE",
+        "altitude_m": 1560
+    },
+    {
+        "id": 2,
+        "name": "ORCI&Egrave;RES",
+        "altitude_m": 1610
+    },
+    {
+        "id": 178,
+        "name": "RISTOLAS",
+        "altitude_m": 1670
+    },
+    {
+        "id": 719,
+        "name": "MONTAGNE-DE-CEUZE",
+        "altitude_m": 1765
+    },
+    {
+        "id": 25,
+        "name": "SAINT-V&Eacute;RAN",
+        "altitude_m": 2040
+    },
+    {
+        "id": 237,
+        "name": "COL DU LAUTARET",
+        "altitude_m": 2075
+    },
+    {
+        "id": 165,
+        "name": "REFUGE CHAMOISSIERE",
+        "altitude_m": 2109
+    },
+    {
+        "id": 188,
+        "name": "COL-DE-JAFFUEIL",
+        "altitude_m": 2500
+    },
+    {
+        "id": 27,
+        "name": "PLATEAU DE BURE",
+        "altitude_m": 2553
+    },
+    {
+        "id": 189,
+        "name": "SOPHIA-ANTIPOLIS",
+        "altitude_m": 125
+    },
+    {
+        "id": 161,
+        "name": "GILETTE",
+        "altitude_m": 150
+    },
+    {
+        "id": 136,
+        "name": "NICE",
+        "altitude_m": 190
+    },
+    {
+        "id": 137,
+        "name": "VENCE",
+        "altitude_m": 329
+    },
+    {
+        "id": 152,
+        "name": "TOURRETTE-LEVENS",
+        "altitude_m": 416
+    },
+    {
+        "id": 228,
+        "name": "SOSPEL",
+        "altitude_m": 470
+    },
+    {
+        "id": 210,
+        "name": "SAORGE",
+        "altitude_m": 550
+    },
+    {
+        "id": 135,
+        "name": "CLANS",
+        "altitude_m": 665
+    },
+    {
+        "id": 150,
+        "name": "ST-VALLIER-DE-THIEY",
+        "altitude_m": 723
+    },
+    {
+        "id": 151,
+        "name": "CIPI&Egrave;RES",
+        "altitude_m": 823
+    },
+    {
+        "id": 269,
+        "name": "ISOLA",
+        "altitude_m": 870
+    },
+    {
+        "id": 132,
+        "name": "ILONSE",
+        "altitude_m": 1000
+    },
+    {
+        "id": 227,
+        "name": "TENDE-CASTERINO",
+        "altitude_m": 1550
+    },
+    {
+        "id": 199,
+        "name": "CAIRE-PETIT",
+        "altitude_m": 1900
+    },
+    {
+        "id": 262,
+        "name": "ENTRAUNES",
+        "altitude_m": 1932
+    },
+    {
+        "id": 242,
+        "name": "TOURNON-SUR-RH&Ocirc;NE",
+        "altitude_m": 130
+    },
+    {
+        "id": 180,
+        "name": "THORRENC",
+        "altitude_m": 363
+    },
+    {
+        "id": 67,
+        "name": "GRAVESON",
+        "altitude_m": 17
+    },
+    {
+        "id": 187,
+        "name": "ST-PAUL-LES-DURANCE",
+        "altitude_m": 270
+    },
+    {
+        "id": 164,
+        "name": "MONTELIMAR",
+        "altitude_m": 88
+    },
+    {
+        "id": 59,
+        "name": "BOURG-LES-VALENCE",
+        "altitude_m": 150
+    },
+    {
+        "id": 123,
+        "name": "GRANGES-LES-BEAUMONT",
+        "altitude_m": 155
+    },
+    {
+        "id": 213,
+        "name": "SAINT-PAUL-LES-ROMANS",
+        "altitude_m": 180
+    },
+    {
+        "id": 97,
+        "name": "AOUSTE-SUR-SYE",
+        "altitude_m": 206
+    },
+    {
+        "id": 904,
+        "name": "MONTBRISON-SUR-LEZ",
+        "altitude_m": 287
+    },
+    {
+        "id": 767,
+        "name": "VERCHENY-AUREL",
+        "altitude_m": 298
+    },
+    {
+        "id": 62,
+        "name": "CREST",
+        "altitude_m": 315
+    },
+    {
+        "id": 194,
+        "name": "MONTJOYER",
+        "altitude_m": 325
+    },
+    {
+        "id": 116,
+        "name": "ST-SORLIN-EN-VALLOIRE",
+        "altitude_m": 340
+    },
+    {
+        "id": 254,
+        "name": "DIEULEFIT",
+        "altitude_m": 374
+    },
+    {
+        "id": 159,
+        "name": "DIE",
+        "altitude_m": 390
+    },
+    {
+        "id": 900,
+        "name": "LE P&Egrave;GUE",
+        "altitude_m": 390
+    },
+    {
+        "id": 83,
+        "name": "PEYRUS",
+        "altitude_m": 430
+    },
+    {
+        "id": 759,
+        "name": "SOLAURE-DIOIS",
+        "altitude_m": 442
+    },
+    {
+        "id": 64,
+        "name": "RECOUBEAU",
+        "altitude_m": 510
+    },
+    {
+        "id": 244,
+        "name": "MENGLON",
+        "altitude_m": 540
+    },
+    {
+        "id": 291,
+        "name": "CHATILLON-EN-DIOIS",
+        "altitude_m": 549
+    },
+    {
+        "id": 158,
+        "name": "ST-JULIEN-EN-QUINT",
+        "altitude_m": 574
+    },
+    {
+        "id": 273,
+        "name": "ST-NAZAIRE-LE-DESERT",
+        "altitude_m": 580
+    },
+    {
+        "id": 205,
+        "name": "MARIGNAC-EN-DIOIS",
+        "altitude_m": 600
+    },
+    {
+        "id": 903,
+        "name": "TESSI&Egrave;RRES",
+        "altitude_m": 645
+    },
+    {
+        "id": 212,
+        "name": "CIRQUE D'ARCHIANE",
+        "altitude_m": 747
+    },
+    {
+        "id": 20,
+        "name": "ST-AGNAN-EN-VERCORS",
+        "altitude_m": 758
+    },
+    {
+        "id": 160,
+        "name": "VALOUSE",
+        "altitude_m": 767
+    },
+    {
+        "id": 78,
+        "name": "POMMEROL",
+        "altitude_m": 780
+    },
+    {
+        "id": 176,
+        "name": "BOULC",
+        "altitude_m": 830
+    },
+    {
+        "id": 204,
+        "name": "BEZAUDUN",
+        "altitude_m": 890
+    },
+    {
+        "id": 245,
+        "name": "ST-JULIEN-EN-VERCORS",
+        "altitude_m": 915
+    },
+    {
+        "id": 705,
+        "name": "COMBE DE L'OSCENCE",
+        "altitude_m": 1000
+    },
+    {
+        "id": 762,
+        "name": "DARBOUNOUSE",
+        "altitude_m": 1282
+    },
+    {
+        "id": 2101,
+        "name": "LA CHAPELLE-EN-VERCORS",
+        "altitude_m": 1346
+    },
+    {
+        "id": 236,
+        "name": "COL DE GRIMONE",
+        "altitude_m": 1450
+    },
+    {
+        "id": 217,
+        "name": "FONT D'URLE",
+        "altitude_m": 1550
+    },
+    {
+        "id": 232,
+        "name": "ST-PAUL-LES-FONTS",
+        "altitude_m": 80
+    },
+    {
+        "id": 200,
+        "name": "TRESQUES",
+        "altitude_m": 80
+    },
+    {
+        "id": 201,
+        "name": "VERFEUIL",
+        "altitude_m": 100
+    },
+    {
+        "id": 707,
+        "name": "LUSSAN",
+        "altitude_m": 223
+    },
+    {
+        "id": 287,
+        "name": "LE PEAGE-DE-ROUSSILLON",
+        "altitude_m": 156
+    },
+    {
+        "id": 6,
+        "name": "LE VERSOUD",
+        "altitude_m": 220
+    },
+    {
+        "id": 4,
+        "name": "ST-MARTIN-D'H&Egrave;RES",
+        "altitude_m": 220
+    },
+    {
+        "id": 14,
+        "name": "BOUVESSE-QUIRIEU",
+        "altitude_m": 222
+    },
+    {
+        "id": 183,
+        "name": "LUZINAY",
+        "altitude_m": 222
+    },
+    {
+        "id": 289,
+        "name": "FRONTONAS",
+        "altitude_m": 247
+    },
+    {
+        "id": 284,
+        "name": "FRONTONAS",
+        "altitude_m": 255
+    },
+    {
+        "id": 50,
+        "name": "L'ISLE-D'ABEAU",
+        "altitude_m": 260
+    },
+    {
+        "id": 173,
+        "name": "NOYAREY",
+        "altitude_m": 260
+    },
+    {
+        "id": 94,
+        "name": "TREPT",
+        "altitude_m": 265
+    },
+    {
+        "id": 225,
+        "name": "ISLES DU DRAC",
+        "altitude_m": 285
+    },
+    {
+        "id": 5,
+        "name": "VIZILLE",
+        "altitude_m": 290
+    },
+    {
+        "id": 216,
+        "name": "CESSIEU",
+        "altitude_m": 300
+    },
+    {
+        "id": 109,
+        "name": "VOIRON",
+        "altitude_m": 300
+    },
+    {
+        "id": 246,
+        "name": "BARRAUX",
+        "altitude_m": 322
+    },
+    {
+        "id": 211,
+        "name": "FOUR",
+        "altitude_m": 360
+    },
+    {
+        "id": 240,
+        "name": "BREZINS",
+        "altitude_m": 363
+    },
+    {
+        "id": 48,
+        "name": "FARAMANS",
+        "altitude_m": 374
+    },
+    {
+        "id": 233,
+        "name": "SEREZIN-DE-LA-TOUR",
+        "altitude_m": 385
+    },
+    {
+        "id": 46,
+        "name": "ST-BLAISE-DU-BUIS",
+        "altitude_m": 395
+    },
+    {
+        "id": 82,
+        "name": "ST-JOSEPH-DE-RIVIERE",
+        "altitude_m": 400
+    },
+    {
+        "id": 156,
+        "name": "ST-LAURENT-DU-PONT",
+        "altitude_m": 410
+    },
+    {
+        "id": 145,
+        "name": "BEAUCROISSANT",
+        "altitude_m": 425
+    },
+    {
+        "id": 202,
+        "name": "CESSIEU",
+        "altitude_m": 490
+    },
+    {
+        "id": 230,
+        "name": "ECLOSE-BADINIERES",
+        "altitude_m": 505
+    },
+    {
+        "id": 32,
+        "name": "ST-CHRISTOPHE-SUR-G.",
+        "altitude_m": 533
+    },
+    {
+        "id": 44,
+        "name": "CHELIEU",
+        "altitude_m": 550
+    },
+    {
+        "id": 169,
+        "name": "SECHILIENNE",
+        "altitude_m": 550
+    },
+    {
+        "id": 219,
+        "name": "MONTFERRAT",
+        "altitude_m": 555
+    },
+    {
+        "id": 250,
+        "name": "BIZONNES",
+        "altitude_m": 576
+    },
+    {
+        "id": 179,
+        "name": "BRION",
+        "altitude_m": 673
+    },
+    {
+        "id": 208,
+        "name": "MIRIBEL-LANCHATRE",
+        "altitude_m": 700
+    },
+    {
+        "id": 731,
+        "name": "LE BOURG-D'OISANS",
+        "altitude_m": 718
+    },
+    {
+        "id": 271,
+        "name": "LAVARS",
+        "altitude_m": 731
+    },
+    {
+        "id": 101,
+        "name": "PINSOT",
+        "altitude_m": 750
+    },
+    {
+        "id": 22,
+        "name": "MIRIBEL-LES-&Eacute;CHELLES",
+        "altitude_m": 760
+    },
+    {
+        "id": 106,
+        "name": "THEYS",
+        "altitude_m": 760
+    },
+    {
+        "id": 141,
+        "name": "ST-PIERRE-DE-CHARTREUSE",
+        "altitude_m": 900
+    },
+    {
+        "id": 139,
+        "name": "ENGINS",
+        "altitude_m": 906
+    },
+    {
+        "id": 41,
+        "name": "CHOLONGE",
+        "altitude_m": 910
+    },
+    {
+        "id": 744,
+        "name": "LA MURE",
+        "altitude_m": 920
+    },
+    {
+        "id": 157,
+        "name": "LES ADRETS",
+        "altitude_m": 920
+    },
+    {
+        "id": 58,
+        "name": "LE SAPPEY-EN-CHARTREUSE",
+        "altitude_m": 925
+    },
+    {
+        "id": 186,
+        "name": "ST-HILAIRE",
+        "altitude_m": 925
+    },
+    {
+        "id": 266,
+        "name": "M&Eacute;AUDRE",
+        "altitude_m": 976
+    },
+    {
+        "id": 80,
+        "name": "LANS-EN-VERCORS",
+        "altitude_m": 990
+    },
+    {
+        "id": 33,
+        "name": "LA FERRI&Egrave;RE",
+        "altitude_m": 1000
+    },
+    {
+        "id": 276,
+        "name": "ST-PANCRASSE",
+        "altitude_m": 1008
+    },
+    {
+        "id": 122,
+        "name": "MALLEVAL-EN-VERCORS",
+        "altitude_m": 1090
+    },
+    {
+        "id": 113,
+        "name": "LA RUCH&Egrave;RE",
+        "altitude_m": 1150
+    },
+    {
+        "id": 239,
+        "name": "COL DE LA CROIX HAUTE",
+        "altitude_m": 1180
+    },
+    {
+        "id": 181,
+        "name": "LA SALETTE-FALLAVAUX",
+        "altitude_m": 1210
+    },
+    {
+        "id": 131,
+        "name": "GRESSE-EN-VERCORS",
+        "altitude_m": 1235
+    },
+    {
+        "id": 726,
+        "name": "CORRENCON-EN-VERCORS",
+        "altitude_m": 1272
+    },
+    {
+        "id": 133,
+        "name": "LANS-LES ALLIERES",
+        "altitude_m": 1449
+    },
+    {
+        "id": 2102,
+        "name": "GRESSE-EN-V./GERLAND",
+        "altitude_m": 1512
+    },
+    {
+        "id": 100,
+        "name": "VILLARD-REYMOND",
+        "altitude_m": 1688
+    },
+    {
+        "id": 502,
+        "name": "SENEPY",
+        "altitude_m": 1769
+    },
+    {
+        "id": 3,
+        "name": "CHAMROUSSE",
+        "altitude_m": 1800
+    },
+    {
+        "id": 2103,
+        "name": "CHICHILIANNE",
+        "altitude_m": 1884
+    },
+    {
+        "id": 802,
+        "name": "HUEZ",
+        "altitude_m": 2064
+    },
+    {
+        "id": 147,
+        "name": "LES SEPT-LAUX",
+        "altitude_m": 2130
+    },
+    {
+        "id": 72,
+        "name": "CROIX-DE-CHAMROUSSE",
+        "altitude_m": 2250
+    },
+    {
+        "id": 803,
+        "name": "CHAMBON",
+        "altitude_m": 2460
+    },
+    {
+        "id": 804,
+        "name": "B&Eacute;RARDE",
+        "altitude_m": 2390
+    },
+    {
+        "id": 247,
+        "name": "MONTAGNA-LE-TEMPLIER",
+        "altitude_m": 360
+    },
+    {
+        "id": 720,
+        "name": "SAINT-CLAUDE",
+        "altitude_m": 840
+    },
+    {
+        "id": 283,
+        "name": "LA PESSE",
+        "altitude_m": 1085
+    },
+    {
+        "id": 70,
+        "name": "LES MOLUNES",
+        "altitude_m": 1250
+    },
+    {
+        "id": 124,
+        "name": "LYON",
+        "altitude_m": 169
+    },
+    {
+        "id": 257,
+        "name": "ST-SYMPHORIEN-D'OZON",
+        "altitude_m": 179
+    },
+    {
+        "id": 238,
+        "name": "BRON",
+        "altitude_m": 190
+    },
+    {
+        "id": 267,
+        "name": "CHAPONNAY",
+        "altitude_m": 200
+    },
+    {
+        "id": 231,
+        "name": "MIONS",
+        "altitude_m": 210
+    },
+    {
+        "id": 256,
+        "name": "COMMUNAY",
+        "altitude_m": 300
+    },
+    {
+        "id": 277,
+        "name": "MORNANT",
+        "altitude_m": 364
+    },
+    {
+        "id": 746,
+        "name": "ST-GENIS-SUR-GUIERS",
+        "altitude_m": 218
+    },
+    {
+        "id": 153,
+        "name": "AIX-LES-BAINS",
+        "altitude_m": 232
+    },
+    {
+        "id": 74,
+        "name": "CHINDRIEUX",
+        "altitude_m": 250
+    },
+    {
+        "id": 148,
+        "name": "CHALLES-LES-EAUX",
+        "altitude_m": 325
+    },
+    {
+        "id": 52,
+        "name": "MEYRIEU-TROUET",
+        "altitude_m": 620
+    },
+    {
+        "id": 754,
+        "name": "SALINS-FONTAINE",
+        "altitude_m": 628
+    },
+    {
+        "id": 715,
+        "name": "CURIENNE",
+        "altitude_m": 645
+    },
+    {
+        "id": 296,
+        "name": "ST-MARTIN-DE-LA-PORTE",
+        "altitude_m": 690
+    },
+    {
+        "id": 248,
+        "name": "ARITH",
+        "altitude_m": 725
+    },
+    {
+        "id": 207,
+        "name": "LA THUILE",
+        "altitude_m": 890
+    },
+    {
+        "id": 243,
+        "name": "AILLON-LE-VIEUX",
+        "altitude_m": 920
+    },
+    {
+        "id": 49,
+        "name": "ST-NICOLAS-LA-CHAPELLE",
+        "altitude_m": 930
+    },
+    {
+        "id": 138,
+        "name": "COL DU CLERGEON",
+        "altitude_m": 970
+    },
+    {
+        "id": 721,
+        "name": "ENTREMONT-LE-VIEUX",
+        "altitude_m": 1030
+    },
+    {
+        "id": 126,
+        "name": "LES D&Eacute;SERTS",
+        "altitude_m": 1060
+    },
+    {
+        "id": 76,
+        "name": "JARRIER",
+        "altitude_m": 1200
+    },
+    {
+        "id": 282,
+        "name": "ARECHES-LE PLANAY",
+        "altitude_m": 1231
+    },
+    {
+        "id": 114,
+        "name": "GRANIER",
+        "altitude_m": 1260
+    },
+    {
+        "id": 163,
+        "name": "MONTVALEZAN",
+        "altitude_m": 1270
+    },
+    {
+        "id": 110,
+        "name": "OBS. ASTRO. DES BAUGES",
+        "altitude_m": 1300
+    },
+    {
+        "id": 155,
+        "name": "JARRIER",
+        "altitude_m": 1330
+    },
+    {
+        "id": 191,
+        "name": "VILLAREMBERT",
+        "altitude_m": 1430
+    },
+    {
+        "id": 760,
+        "name": "NAVES",
+        "altitude_m": 1563
+    },
+    {
+        "id": 13,
+        "name": "STE-FOY-TARENTAISE",
+        "altitude_m": 1582
+    },
+    {
+        "id": 34,
+        "name": "BESSANS",
+        "altitude_m": 1730
+    },
+    {
+        "id": 756,
+        "name": "STE-FOY - PLAN-BOIS",
+        "altitude_m": 1775
+    },
+    {
+        "id": 807,
+        "name": "LA GIETTAZ",
+        "altitude_m": 1812
+    },
+    {
+        "id": 93,
+        "name": "VAL-D'IS&Egrave;RE",
+        "altitude_m": 1850
+    },
+    {
+        "id": 749,
+        "name": "LA ROSI&Egrave;RE",
+        "altitude_m": 1850
+    },
+    {
+        "id": 810,
+        "name": "LA L&Eacute;CH&Egrave;RE",
+        "altitude_m": 1924
+    },
+    {
+        "id": 118,
+        "name": "VAL-D'ARLY",
+        "altitude_m": 2050
+    },
+    {
+        "id": 763,
+        "name": "PEISEY-NANCROIX-LES ARCS",
+        "altitude_m": 2188
+    },
+    {
+        "id": 805,
+        "name": "VAL-THORENS",
+        "altitude_m": 2280
+    },
+    {
+        "id": 750,
+        "name": "LA ROSI&Egrave;RE-LE FORT",
+        "altitude_m": 2385
+    },
+    {
+        "id": 752,
+        "name": "LES ARCS-ARPETTE",
+        "altitude_m": 2410
+    },
+    {
+        "id": 757,
+        "name": "STE-FOY - MARQUISE",
+        "altitude_m": 2418
+    },
+    {
+        "id": 806,
+        "name": "PRALOGNAN-LA-VANOISE",
+        "altitude_m": 2419
+    },
+    {
+        "id": 809,
+        "name": "BONNEVAL-SUR-ARC",
+        "altitude_m": 2480
+    },
+    {
+        "id": 259,
+        "name": "AUSSOIS",
+        "altitude_m": 2603
+    },
+    {
+        "id": 758,
+        "name": "STE-FOY - COL AIGUILLE",
+        "altitude_m": 2626
+    },
+    {
+        "id": 260,
+        "name": "LES MENUIRES/MERIBEL",
+        "altitude_m": 2695
+    },
+    {
+        "id": 755,
+        "name": "LA ROSI&Egrave;RE-MONT VALAISAN",
+        "altitude_m": 2802
+    },
+    {
+        "id": 167,
+        "name": "GLACIER-GD-PISAILLAS",
+        "altitude_m": 3119
+    },
+    {
+        "id": 753,
+        "name": "LES ARCS-AIGUILLE ROUGE",
+        "altitude_m": 3222
+    },
+    {
+        "id": 702,
+        "name": "VALLIERES",
+        "altitude_m": 320
+    },
+    {
+        "id": 142,
+        "name": "SCIEZ-SUR-L&Eacute;MAN",
+        "altitude_m": 370
+    },
+    {
+        "id": 703,
+        "name": "FRANGY",
+        "altitude_m": 395
+    },
+    {
+        "id": 708,
+        "name": "COPPONEX",
+        "altitude_m": 445
+    },
+    {
+        "id": 718,
+        "name": "ANNECY",
+        "altitude_m": 450
+    },
+    {
+        "id": 261,
+        "name": "RUMILLY",
+        "altitude_m": 461
+    },
+    {
+        "id": 130,
+        "name": "MARIGNIER",
+        "altitude_m": 470
+    },
+    {
+        "id": 10,
+        "name": "CREMPIGNY",
+        "altitude_m": 500
+    },
+    {
+        "id": 704,
+        "name": "BONNEGUETE",
+        "altitude_m": 515
+    },
+    {
+        "id": 265,
+        "name": "POISY",
+        "altitude_m": 543
+    },
+    {
+        "id": 288,
+        "name": "PASSY - L'ABBAYE",
+        "altitude_m": 590
+    },
+    {
+        "id": 171,
+        "name": "ARCHAMPS",
+        "altitude_m": 625
+    },
+    {
+        "id": 98,
+        "name": "TANINGES",
+        "altitude_m": 635
+    },
+    {
+        "id": 701,
+        "name": "DROISY",
+        "altitude_m": 670
+    },
+    {
+        "id": 765,
+        "name": "LES CLEFS",
+        "altitude_m": 752
+    },
+    {
+        "id": 168,
+        "name": "SEYTHENEX",
+        "altitude_m": 780
+    },
+    {
+        "id": 140,
+        "name": "VILLY-LE-BOUVERET",
+        "altitude_m": 791
+    },
+    {
+        "id": 709,
+        "name": "ANDILLY",
+        "altitude_m": 800
+    },
+    {
+        "id": 36,
+        "name": "AVIERNOZ",
+        "altitude_m": 800
+    },
+    {
+        "id": 115,
+        "name": "LA ROCHE-SUR-FORON",
+        "altitude_m": 835
+    },
+    {
+        "id": 223,
+        "name": "SIXT-FER-A-CHEVAL",
+        "altitude_m": 850
+    },
+    {
+        "id": 102,
+        "name": "PASSY",
+        "altitude_m": 890
+    },
+    {
+        "id": 121,
+        "name": "VERCHAIX",
+        "altitude_m": 895
+    },
+    {
+        "id": 23,
+        "name": "LE SAPPEY",
+        "altitude_m": 900
+    },
+    {
+        "id": 24,
+        "name": "THYEZ - SUR LE COUX",
+        "altitude_m": 970
+    },
+    {
+        "id": 275,
+        "name": "MEGEVETTE",
+        "altitude_m": 987
+    },
+    {
+        "id": 166,
+        "name": "MORZINE",
+        "altitude_m": 995
+    },
+    {
+        "id": 81,
+        "name": "CHAMONIX",
+        "altitude_m": 1029
+    },
+    {
+        "id": 19,
+        "name": "LA CHAPELLE-D'A.",
+        "altitude_m": 1030
+    },
+    {
+        "id": 37,
+        "name": "ST SIXT - ORANGE",
+        "altitude_m": 1100
+    },
+    {
+        "id": 39,
+        "name": "ARACHES-LA-FRASSE",
+        "altitude_m": 1120
+    },
+    {
+        "id": 2104,
+        "name": "SERRAVAL",
+        "altitude_m": 1168
+    },
+    {
+        "id": 253,
+        "name": "HIRMENTAZ",
+        "altitude_m": 1234
+    },
+    {
+        "id": 73,
+        "name": "CRETS DU SALEVE",
+        "altitude_m": 1300
+    },
+    {
+        "id": 241,
+        "name": "PASSY - PLAINE-JOUX",
+        "altitude_m": 1355
+    },
+    {
+        "id": 297,
+        "name": "SOLAISON",
+        "altitude_m": 1515
+    },
+    {
+        "id": 196,
+        "name": "AVORIAZ-FERME SERRAUSSAIX",
+        "altitude_m": 1680
+    },
+    {
+        "id": 196,
+        "name": "AVORIAZ-SERRAUSSAIX",
+        "altitude_m": 1770
+    },
+    {
+        "id": 197,
+        "name": "AVORIAZ-PLATEAU",
+        "altitude_m": 1810
+    },
+    {
+        "id": 195,
+        "name": "AVORIAZ-ARARE",
+        "altitude_m": 2190
+    },
+    {
+        "id": 764,
+        "name": "CHATEAUVIEUX",
+        "altitude_m": 965
+    },
+    {
+        "id": 96,
+        "name": "MONT LACHENS",
+        "altitude_m": 1680
+    },
+    {
+        "id": 54,
+        "name": "ORANGE",
+        "altitude_m": 44
+    },
+    {
+        "id": 905,
+        "name": "BOLL&Egrave;NE",
+        "altitude_m": 56
+    },
+    {
+        "id": 71,
+        "name": "ISLE SUR LA SORGUE",
+        "altitude_m": 57
+    },
+    {
+        "id": 91,
+        "name": "ST-SATURNIN-LES-AVIGNON",
+        "altitude_m": 60
+    },
+    {
+        "id": 95,
+        "name": "PERTUIS",
+        "altitude_m": 206
+    },
+    {
+        "id": 901,
+        "name": "VALR&Eacute;AS",
+        "altitude_m": 218
+    },
+    {
+        "id": 69,
+        "name": "ENTRECHAUX",
+        "altitude_m": 305
+    },
+    {
+        "id": 902,
+        "name": "VISAN",
+        "altitude_m": 360
+    },
+    {
+        "id": 56,
+        "name": "GRAMBOIS",
+        "altitude_m": 385
+    },
+    {
+        "id": 446,
+        "name": "BRANTES",
+        "altitude_m": 466
+    },
+    {
+        "id": 706,
+        "name": "SAINT-CHRISTOL",
+        "altitude_m": 843
+    },
+    {
+        "id": 119,
+        "name": "LAGARDE-D'APT",
+        "altitude_m": 1100
+    },
+    {
+        "id": 146,
+        "name": "MONT-SEREIN",
+        "altitude_m": 1386
+    },
+    {
+        "id": 851,
+        "name": "MONT-VENTOUX",
+        "altitude_m": 1911
+    },
+    {
+        "id": 162,
+        "name": "BOUVERET",
+        "altitude_m": 378
+    },
+    {
+        "id": 38,
+        "name": "VERSOIX",
+        "altitude_m": 385
+    },
+    {
+        "id": 12,
+        "name": "ST-TRIPHON",
+        "altitude_m": 441
+    },
+    {
+        "id": 60,
+        "name": "SAXON",
+        "altitude_m": 463
+    },
+    {
+        "id": 193,
+        "name": "CUGY",
+        "altitude_m": 705
+    },
+    {
+        "id": 1,
+        "name": "LEYSIN",
+        "altitude_m": 1360
+    },
+    {
+        "id": 125,
+        "name": "GRIMENTZ",
+        "altitude_m": 1710
+    },
+    {
+        "id": 45,
+        "name": "AROLLA",
+        "altitude_m": 2084
+    },
+    {
+        "id": 813,
+        "name": "VERBIER",
+        "altitude_m": 2659
+    },
+    {
+        "id": 90,
+        "name": "BUTTIGLIERA-ALTA",
+        "altitude_m": 414
+    },
+    {
+        "id": 278,
+        "name": "CHAMBAVE",
+        "altitude_m": 568
+    },
+    {
+        "id": 31,
+        "name": "SAUZE-D'OULX",
+        "altitude_m": 1510
+    },
+    {
+        "id": 89,
+        "name": "OSTANA",
+        "altitude_m": 1630
+    },
+    {
+        "id": 63,
+        "name": "PETIT-SAINT-BERNARD",
+        "altitude_m": 2188
+    }
+]
